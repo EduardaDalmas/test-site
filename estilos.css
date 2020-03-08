@@ -1,0 +1,11 @@
+div.conteudo h5, p {
+    width: 25%;
+    text-align: auto;
+    font-family: Montserrat;
+    font-size: 32px;
+    padding-left: 25px;
+}
+
+div.send {
+    text-align: right;
+}
